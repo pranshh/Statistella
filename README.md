@@ -6,7 +6,7 @@ Comprehensive data analysis and visualization project for the Statistella Analyt
 
 ## Problem Statement
 
-In the Statistella Challenge, participants received an Excel/CSV file containing detailed information about goods purchased by customers and corresponding sales transactions. The task entailed a comprehensive analysis of the dataset, drawing meaningful inferences to answer a set of given questions.
+In the Statistella Challenge, participants received an CSV file containing detailed information about goods purchased by customers and corresponding sales transactions. The task entailed a comprehensive analysis of the dataset, drawing meaningful inferences to answer a set of given questions.
 
 ## Project Overview
 
